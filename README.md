@@ -55,5 +55,4 @@ Para compilar e executar este projeto, você precisará de:
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Desenvolvido por Madison Santos Oliveira 🚀
-Analista de Sistemas & Especialista em Cibersegurança
 ---
