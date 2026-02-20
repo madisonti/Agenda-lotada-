@@ -50,9 +50,5 @@ Para compilar e executar este projeto, você precisará de:
 
     ./agenda.exe
 
-📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 Desenvolvido por Madison Santos Oliveira 🚀
 ---
